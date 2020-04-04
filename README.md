@@ -14,7 +14,7 @@ Predict if a diabetes patient would be readmitted
 * To do the analysis, I’ve explored the UCI dataset on "Diabetes 130-US hospitals for years 1999-2008 Data Set" from the below link:
 uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008 
 
-### Metrics after applying CNN (Convolutional Neural Network) to the dataset:
+### Metrics after applying various models to the dataset:
 
 ![Classification Report.JPG](/Images/Classification Report.JPG) 
 
