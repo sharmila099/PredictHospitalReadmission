@@ -16,7 +16,7 @@ uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
 
 ### Metrics after applying CNN (Convolutional Neural Network) to the dataset:
 
-![ClassificationReport.JPG](/Images/Classification Report.JPG) 
+![Classification Report.JPG](/Images/Classification Report.JPG) 
 
 ![ModelAccuracy.JPG](/Images/ModelAccuracy.JPG)
 
