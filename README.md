@@ -18,7 +18,7 @@ uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
 
 ![Classification Report.JPG](/Images/Classification Report.JPG) 
 
-![ModelAccuracy.JPG](/Images/ModelAccuracy.JPG)
+![ModelAccuracy.JPG](/Images/BoxCox Transformation.JPG)
 
 ![ModelLoss.JPG](/Images/ModelLoss.JPG)
 
