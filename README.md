@@ -1,5 +1,5 @@
 # Predicting-Hostpital-Readmission
-Predict hospital readmission for Diabetes dataset in Kaggle. 
+Predict hospital readmission for Diabetes patients. 
 
 # Speech Emotion Recognition
 
@@ -7,17 +7,16 @@ Predict hospital readmission for Diabetes dataset in Kaggle.
 
 
 ### Problem Statement: 
-Classify the emotion in the audio speech file using various machine learning and deep learning models.
+Predict if a diabetes patient would be readmitted 
 
 
-### Dataset: RAVDESS
-* To do the analysis, I’ve explored datasets containing audio and video files by professional actors in different emotional sequences (happy, angry, sad, surprised, frightened, neutral and calm). 
-* Since we are primarily focusing on processing the speech, the audio(WAV format) has been extracted from the video files(MP4 format). Then, the speech features such as, Mel Frequency Cepstrum Coefficients (MFCC) has been generated from the speech. 
-
+### Dataset: UCI Dataset
+* To do the analysis, I’ve explored the UCI dataset on "Diabetes 130-US hospitals for years 1999-2008 Data Set" from the below link:
+uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008 
 
 ### Metrics after applying CNN (Convolutional Neural Network) to the dataset:
 
-![ClassificationReport.JPG](/Images/ClassificationReport.JPG)
+![ClassificationReport.JPG](/Images/ClassificationReport.JPG) 
 
 ![ModelAccuracy.JPG](/Images/ModelAccuracy.JPG)
 
