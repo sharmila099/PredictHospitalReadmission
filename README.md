@@ -1,4 +1,4 @@
-# Predicting-Hostpital-Readmission
+# Predicting Hospital Readmission
 ![DischargeSummary.JPG](/Images/DischargeSummary.JPG)
 
 
@@ -11,12 +11,13 @@ Predict if a diabetes patient would be readmitted or not
 uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008 
 
 
-#### BoxCox Transformation on the numerical columns
+### BoxCox Transformation on the numerical columns
 ![BoxCoxTransformation.JPG](/Images/BoxCoxTransformation.JPG)
 
 
-#### Classification Report after prediction
+### Classification Report after prediction
 ![Classification Report](/Images/ClassificationReport.JPG) 
 
-#### Feature Importance Graph after prediction
+
+### Feature Importance Graph after prediction
 ![FeatureImportance.JPG](/Images/FeatureImportance.JPG)
