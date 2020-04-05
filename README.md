@@ -16,9 +16,9 @@ uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
 
 ### Metrics after applying various models to the dataset:
 
-![Classification Report.JPG](/Images/Classification Report.JPG) 
+![Classification Report.JPG](/Images/ClassificationReport.JPG) 
 
-![ModelAccuracy.JPG](/Images/BoxCox Transformation.JPG)
+![ModelAccuracy.JPG](/Images/BoxCoxTransformation.JPG)
 
 ![ModelLoss.JPG](/Images/ModelLoss.JPG)
 
