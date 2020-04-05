@@ -1,9 +1,9 @@
-# Predicting Hospital Readmission
+# Predict Hospital Readmission for a Diabetes Patient
 ![DischargeSummary.JPG](/Images/DischargeSummary.JPG)
 
 
 ### Problem Statement: 
-Predict if a diabetes patient would be readmitted or not
+Predict if a diabetes patient would be readmitted in the hospital or not
 
 
 ### Dataset: UCI Dataset
@@ -11,13 +11,13 @@ Predict if a diabetes patient would be readmitted or not
 uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008 
 
 
-### BoxCox Transformation on the numerical columns
+### BoxCox Transformation on the Numerical Columns
 ![BoxCoxTransformation.JPG](/Images/BoxCoxTransformation.JPG)
 
 
-### Classification Report after prediction
+### Classification Report after Prediction
 ![Classification Report](/Images/ClassificationReport.JPG) 
 
 
-### Feature Importance Graph after prediction
+### Feature Importance Graph after Prediction
 ![FeatureImportance.JPG](/Images/FeatureImportance.JPG)
