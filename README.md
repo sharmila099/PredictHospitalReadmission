@@ -3,7 +3,7 @@ Predict hospital readmission for Diabetes patients.
 
 # Speech Emotion Recognition
 
-![MainImage.JPG](/Images/MainImage.JPG)
+![DischargeSummary.JPG](/Images/DischargeSummary.JPG)
 
 
 ### Problem Statement: 
